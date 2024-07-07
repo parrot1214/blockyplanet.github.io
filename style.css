@@ -1,0 +1,7 @@
+#game-container {
+  margin: 0 auto; /* Centers the element horizontally */
+  text-align: center; /* Aligns the content within the container to center (optional) */
+}
+body {
+  background-color: #008eff;
+}
